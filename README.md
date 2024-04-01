@@ -1,0 +1,1 @@
+# quay-registry-configuration
